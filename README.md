@@ -21,6 +21,9 @@ It replaces legacy static heuristics (e.g., fixed 52 segments or static 512 toke
 ### 3. Execution Sequence Flow
 ![Execution Sequence Flow](docs/assets/hld_sequence_flow.jpg)
 
+### 4. Mathematical Formulation & Optimality Proof
+![Mathematical Formulation](docs/assets/cr_batch_mathematical_formulation.jpg)
+
 ---
 
 ## 📊 Empirical Benchmarks
